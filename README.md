@@ -30,4 +30,10 @@ Fun fact: my third attempt only took **3 hours**, compared to **7 hours** for my
   [PDF](./scores/Mind%20Wander.pdf) · 
   [MIDI](./midi/Mind%20Wander.mid) · 
   [Audio](./interpretations/suno/Mind%20Wander.wav) · 
-  [SoundCloud](https://soundcloud.com/futureboi420/wandering-mind)
+  [SoundCloud](https://soundcloud.com/futureboi420/wandering-mind)  
+
+- **Qualia (~4h)**  
+  [PDF](./scores/Qualia.pdf) · 
+  [MIDI](./midi/Qualia.mid) · 
+  [Audio](./interpretations/suno/Qualia.wav) · 
+  [SoundCloud](https://soundcloud.com/futureboi420/qualia)  
