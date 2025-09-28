@@ -6,6 +6,8 @@ Hey everyone! Thanks for stopping by.
 Recently I started composing classical music, and I'm slowly making progress.  
 Fun fact: my third attempt only took **3 hours**, compared to **7 hours** for my second attempt!  
 
+### Listen to my compositions on [Spotify](https://open.spotify.com/album/3gAypPYUSqbfeCxTKBPqZm)  
+
 ## 📑 Scores & Links  
 
 - **Für Nadine (~7h)**  
@@ -26,7 +28,7 @@ Fun fact: my third attempt only took **3 hours**, compared to **7 hours** for my
   [SoundCloud](https://soundcloud.com/futureboi420/a-gust-of-autumn-melancholia) · 
   [Spotify](https://open.spotify.com/intl-de/track/1hhHrxAYNUOZRtH3K7xUuA?si=e89e82e3e6584a3a)  
 
-- **Mind Wander**  
+- **Mind Wander (~4h)**  
   [PDF](./scores/Mind%20Wander.pdf) · 
   [MIDI](./midi/Mind%20Wander.mid) · 
   [Audio](./interpretations/suno/Mind%20Wander.wav) · 
