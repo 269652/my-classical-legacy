@@ -31,7 +31,3 @@ Fun fact: my third attempt only took **3 hours**, compared to **7 hours** for my
   [MIDI](./midi/Mind%20Wander.mid) · 
   [Audio](./interpretations/suno/Mind%20Wander.wav) · 
   [SoundCloud](https://soundcloud.com/futureboi420/wandering-mind)
-
----  
-
-![Album Cover](./art/albumcover.webp)  
