@@ -37,3 +37,6 @@ Fun fact: my third attempt only took **3 hours**, compared to **7 hours** for my
   [MIDI](./midi/Qualia.mid) · 
   [Audio](./interpretations/suno/Qualia.wav) · 
   [SoundCloud](https://soundcloud.com/futureboi420/qualia)  
+
+- **Norepinephrine (8h)**  
+  [PDF](./scores/Norepinephrine.pdf) · [MIDI](./midi/Norepinephrine.mid) · [SoundCloud](https://soundcloud.com/futureboi420/norepinephrine)
