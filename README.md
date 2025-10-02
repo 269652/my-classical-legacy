@@ -40,3 +40,6 @@ Fun fact: my third attempt only took **3 hours**, compared to **7 hours** for my
 
 - **Norepinephrine (8h)**  
   [PDF](./scores/Norepinephrine.pdf) · [MIDI](./midi/Norepinephrine.mid) · [SoundCloud](https://soundcloud.com/futureboi420/norepinephrine)
+
+- **Rat Race (~40m)**  
+  [PDF](./scores/Rat%20Race.pdf) · [MIDI](./midi/Rat%20Race.mid) · [SoundCloud](https://soundcloud.com/futureboi420/rat-race) · [Flat.io](https://flat.io/score/68dd278ae020d54c2f9f1e38-rat-race)
