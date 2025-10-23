@@ -11,18 +11,21 @@ Fun fact: my third attempt only took **3 hours**, compared to **7 hours** for my
 - **Für Nadine (~7h)**  
   [PDF](./scores/Für%20Nadine.pdf) · 
   [MIDI](./midi/Für%20Nadine.mid) · 
+  [Audio](./interpretations/suno/Für%20Nadine.wav) · 
   [SoundCloud](https://soundcloud.com/futureboi420/fur-nadine) · 
   [Spotify](https://open.spotify.com/intl-de/track/2AMJOYuv3Z84EsZpQpCCk9?si=ee3240b997a142f1)  
 
 - **Moonwalk (~4h)**  
   [PDF](./scores/Moonwalk.pdf) · 
   [MIDI](./midi/Moonwalk.mid) · 
+  [Audio](./interpretations/suno/Moonwalk.wav) · 
   [SoundCloud](https://soundcloud.com/futureboi420/moonwalk) · 
   [Spotify](https://open.spotify.com/intl-de/track/2TqESETYMfUy74aO9OOkKn)  
 
 - **A Breeze of Melancholia (~3h)**  
   [PDF](./scores/A%20Breeze%20of%20Melancholia.pdf) · 
   [MIDI](./midi/A%20Breeze%20of%20Melancholia.mid) · 
+  [Audio](./interpretations/suno/A%20Breeze%20of%20Melancholia.wav) · 
   [SoundCloud](https://soundcloud.com/futureboi420/a-gust-of-autumn-melancholia) · 
   [Spotify](https://open.spotify.com/intl-de/track/1hhHrxAYNUOZRtH3K7xUuA?si=e89e82e3e6584a3a)  
 
@@ -39,10 +42,10 @@ Fun fact: my third attempt only took **3 hours**, compared to **7 hours** for my
   [SoundCloud](https://soundcloud.com/futureboi420/qualia)  
 
 - **Norepinephrine (8h)**  
-  [PDF](./scores/Norepinephrine.pdf) · [MIDI](./midi/Norepinephrine.mid) · [SoundCloud](https://soundcloud.com/futureboi420/norepinephrine)
+  [PDF](./scores/Norepinephrine.pdf) · [MIDI](./midi/Norepinephrine.mid) · [Audio](./interpretations/suno/Norepinephrine.wav) · [SoundCloud](https://soundcloud.com/futureboi420/norepinephrine)
 
 - **Rat Race (~40m)**  
-  [PDF](./scores/Rat%20Race.pdf) · [MIDI](./midi/Rat%20Race.mid) · [SoundCloud](https://soundcloud.com/futureboi420/rat-race) · [Flat.io](https://flat.io/score/68dd278ae020d54c2f9f1e38-rat-race)
+  [PDF](./scores/Rat%20Race.pdf) · [MIDI](./midi/Rat%20Race.mid) · [Audio](./interpretations/suno/Rat%20Race.wav) · [SoundCloud](https://soundcloud.com/futureboi420/rat-race) · [Flat.io](https://flat.io/score/68dd278ae020d54c2f9f1e38-rat-race)
 
 - **A Students Effort (~2h)**  
-  [PDF](./scores/A%20Students%20Effort.pdf) · [MIDI](./midi/A%20Students%20Effort.mid) · [SoundCloud](https://soundcloud.com/futureboi420/a-students-effort?in=futureboi420/sets/the-old-wizards-apprentice) · [Flat.io](https://flat.io/score/68fa795627822e75646c4a82-a-students-effort)
+ [PDF](./scores/A%20Students%20Effort.pdf) · [MIDI](./midi/A%20Students%20Effort.mid) · [Audio](./interpretations/suno/A%20Students%20Effort.wav) · [SoundCloud](https://soundcloud.com/futureboi420/a-students-effort?in=futureboi420/sets/the-old-wizards-apprentice) · [Flat.io](https://flat.io/score/68fa795627822e75646c4a82-a-students-effort)
