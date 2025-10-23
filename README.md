@@ -6,6 +6,10 @@ Fun fact: my third attempt only took **3 hours**, compared to **7 hours** for my
 
 ### Listen to my compositions on [Spotify](https://open.spotify.com/album/3gAypPYUSqbfeCxTKBPqZm),  [SoundCloud](https://soundcloud.com/futureboi420/sets/the-old-wizards-apprentice) or [Flat.io](https://flat.io/@futureboi/published)
 
+
+> **Note:** Audio files may not play in the browser due to GitHub LFS limitations.  
+> To listen, right-click the "Audio" link and choose "Save link as..." to download the file.
+
 ## 📑 Scores & Links  
 
 - **Für Nadine (~7h)**  
