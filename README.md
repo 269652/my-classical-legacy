@@ -17,8 +17,7 @@ Fun fact: my third attempt only took **3 hours**, compared to **7 hours** for my
   [MIDI](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/midi/Für%20Nadine.mid) · 
   [Audio](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/interpretations/suno/Für%20Nadine.wav) · 
   [SoundCloud](https://soundcloud.com/futureboi420/fur-nadine) · 
-  [Spotify](https://open.spotify.com/intl-de/track/2AMJOYuv3Z84EsZpQpCCk9?si=ee3240b997a142f1) ·  
-  [Flat.io](https://flat.io/score/687eb06f4ad7ec05af746b4b-fuer-nadine)  
+  [Spotify](https://open.spotify.com/intl-de/track/2AMJOYuv3Z84EsZpQpCCk9?si=ee3240b997a142f1) · [Flat.io](https://flat.io/score/687eb06f4ad7ec05af746b4b-fuer-nadine)  
 
 - **Moonwalk (~4h)**  
   [PDF](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/scores/Moonwalk.pdf) · 
