@@ -55,5 +55,5 @@ Fun fact: my third attempt only took **3 hours**, compared to **7 hours** for my
 - **A Students Effort (~2h)**  
  [PDF](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/scores/A%20Students%20Effort.pdf) · [MIDI](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/midi/A%20Students%20Effort.mid) · [Audio](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/interpretations/suno/A%20Students%20Effort.wav) · [SoundCloud](https://soundcloud.com/futureboi420/a-students-effort?in=futureboi420/sets/the-old-wizards-apprentice) · [Flat.io](https://flat.io/score/68fa795627822e75646c4a82-a-students-effort)
 
--- **Angry Little Notes (~1h)**  
+- **Angry Little Notes (~1h)**  
   [PDF](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/scores/Angry%20Little%20Notes.pdf) · [MIDI](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/midi/Angry%20Little%20Notes.mid) · [Audio](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/interpretations/suno/Angry%20Little%20Notes.wav) · [SoundCloud](https://soundcloud.com/futureboi420/angry-little-notes?in=futureboi420/sets/the-wizards-journey) · [Flat.io](https://flat.io/score/68f7c5333f827a161cc53c4e-angry-little-notes)
