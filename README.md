@@ -43,3 +43,6 @@ Fun fact: my third attempt only took **3 hours**, compared to **7 hours** for my
 
 - **Rat Race (~40m)**  
   [PDF](./scores/Rat%20Race.pdf) · [MIDI](./midi/Rat%20Race.mid) · [SoundCloud](https://soundcloud.com/futureboi420/rat-race) · [Flat.io](https://flat.io/score/68dd278ae020d54c2f9f1e38-rat-race)
+
+- **A Students Effort (~2h)**  
+  [PDF](./scores/A%20Students%20Effort.pdf) · [MIDI](./midi/A%20Students%20Effort.mid) · [SoundCloud](https://soundcloud.com/futureboi420/a-students-effort?in=futureboi420/sets/the-old-wizards-apprentice) · [Flat.io](https://flat.io/score/68fa795627822e75646c4a82-a-students-effort)
