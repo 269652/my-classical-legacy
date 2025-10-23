@@ -4,7 +4,7 @@ Hey everyone! Thanks for stopping by.
 Recently I started composing classical music, and I'm slowly making progress.  
 Fun fact: my third attempt only took **3 hours**, compared to **7 hours** for my second attempt!  
 
-### Listen to my compositions on [Spotify](https://open.spotify.com/album/3gAypPYUSqbfeCxTKBPqZm)  
+### Listen to my compositions on [Spotify](https://open.spotify.com/album/3gAypPYUSqbfeCxTKBPqZm) and [SoundCloud](https://soundcloud.com/futureboi420/sets/the-old-wizards-apprentice) 
 
 ## 📑 Scores & Links  
 
@@ -48,4 +48,4 @@ Fun fact: my third attempt only took **3 hours**, compared to **7 hours** for my
   [PDF](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/scores/Rat%20Race.pdf) · [MIDI](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/midi/Rat%20Race.mid) · [Audio](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/interpretations/suno/Rat%20Race.wav) · [SoundCloud](https://soundcloud.com/futureboi420/rat-race) · [Flat.io](https://flat.io/score/68dd278ae020d54c2f9f1e38-rat-race)
 
 - **A Students Effort (~2h)**  
- [PDF](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/scores/A%20Students%20Effort.pdf) · [MIDI](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/midi/A%20Students%20Effort.mid) · [Audio](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/interpretations/suno/A%20Students%20Effort.wav) · [SoundCloud](https://soundcloud.com/futureboi420/a-students-effort?in=futureboi420/sets/the-old-wizards-apprentice) · [Flat.io](https://flat.io/score/68fa795627822e75646c4a82-a-students-effort)
+ [PDF](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/scores/A%20Students%20Effort.pdf) · [MIDI](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/midi/A%20Students%20Effort.mid) · [Audio](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/interpretations/suno/A%20Students%20Effort.wav) · [SoundCloud](https://soundcloud.com/futureboi420/a-students-effort?in=futureboi420/sets/the-old-wizards-apprentice) · [Flat.io](https://flat.io/score/68fa795627822e75646c4a82-a-students-effort
