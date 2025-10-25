@@ -37,22 +37,25 @@ Fun fact: my third attempt only took **3 hours**, compared to **7 hours** for my
   [PDF](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/scores/Mind%20Wander.pdf) · 
   [MIDI](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/midi/Mind%20Wander.mid) · 
   [Audio](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/interpretations/suno/Mind%20Wander.wav) · 
-  [SoundCloud](https://soundcloud.com/futureboi420/wandering-mind)  
+  [SoundCloud](https://soundcloud.com/futureboi420/wandering-mind) · [Spotify](https://open.spotify.com/intl-de/album/0XmGpEiVKtVR2GDoTidmx7) · [Flat.io](https://flat.io/score/68d5e8595a992a3459db8fd0-mind-wander)  
 
 - **Qualia (~4h)**  
   [PDF](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/scores/Qualia.pdf) · 
   [MIDI](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/midi/Qualia.mid) · 
   [Audio](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/interpretations/suno/Qualia.wav) · 
-  [SoundCloud](https://soundcloud.com/futureboi420/qualia)  
+  [SoundCloud](https://soundcloud.com/futureboi420/qualia) · [Spotify](https://open.spotify.com/intl-de/album/0pnIdLJM7QMjLQegmhPOkW) · [Flat.io](https://flat.io/score/68d8b1845dd015158602b77e-qualia)  
 
 - **Norepinephrine (8h)**  
-  [PDF](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/scores/Norepinephrine.pdf) · [MIDI](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/midi/Norepinephrine.mid) · [Audio](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/interpretations/suno/Norepinephrine.wav) · [SoundCloud](https://soundcloud.com/futureboi420/norepinephrine)
+yyyy  [PDF](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/scores/Norepinephrine.pdf) · [MIDI](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/midi/Norepinephrine.mid) · [Audio](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/interpretations/suno/Norepinephrine.wav) · [SoundCloud](https://soundcloud.com/futureboi420/norepinephrine) · [Spotify](https://open.spotify.com/intl-de/album/0p1WW6KQm12QJb31kaVwj5) · [Flat.io](https://flat.io/score/68dcd4ab1eda44d451f4e30d-norepinephrine)
 
 - **Rat Race (~40m)**  
-  [PDF](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/scores/Rat%20Race.pdf) · [MIDI](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/midi/Rat%20Race.mid) · [Audio](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/interpretations/suno/Rat%20Race.wav) · [SoundCloud](https://soundcloud.com/futureboi420/rat-race) · [Flat.io](https://flat.io/score/68dd278ae020d54c2f9f1e38-rat-race)
+  [PDF](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/scores/Rat%20Race.pdf) · [MIDI](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/midi/Rat%20Race.mid) · [Audio](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/interpretations/suno/Rat%20Race.wav) · [SoundCloud](https://soundcloud.com/futureboi420/rat-race) · [Spotify](https://open.spotify.com/intl-de/album/6y77ZqBjWqWEp3r96orUAa) · [Flat.io](https://flat.io/score/68dd278ae020d54c2f9f1e38-rat-race)
 
 - **A Students Effort (~2h)**  
  [PDF](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/scores/A%20Students%20Effort.pdf) · [MIDI](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/midi/A%20Students%20Effort.mid) · [Audio](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/interpretations/suno/A%20Students%20Effort.wav) · [SoundCloud](https://soundcloud.com/futureboi420/a-students-effort?in=futureboi420/sets/the-old-wizards-apprentice) · [Flat.io](https://flat.io/score/68fa795627822e75646c4a82-a-students-effort)
 
 - **Angry Little Notes (~1h)**  
   [PDF](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/scores/Angry%20Little%20Notes.pdf) · [MIDI](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/midi/Angry%20Little%20Notes.mid) · [Audio](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/interpretations/suno/Angry%20Little%20Notes.wav) · [SoundCloud](https://soundcloud.com/futureboi420/angry-little-notes?in=futureboi420/sets/the-wizards-journey) · [Flat.io](https://flat.io/score/68f7c5333f827a161cc53c4e-angry-little-notes)
+
+- **Bored**  
+  [PDF](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/scores/Bored.pdf) · [MIDI](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/midi/Bored.mid) · [Audio](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/interpretations/suno/Bored.wav) · [SoundCloud](https://soundcloud.com/futureboi420/bored?in=futureboi420/sets/the-wizards-magic) · [Flat.io](https://flat.io/score/68fcd65ba8a50d437c2fc420-bored)
