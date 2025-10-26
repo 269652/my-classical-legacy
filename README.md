@@ -58,6 +58,7 @@ yyyy  [PDF](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/sc
   [PDF](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/scores/Angry%20Little%20Notes.pdf) · [MIDI](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/midi/Angry%20Little%20Notes.mid) · [Audio](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/interpretations/suno/Angry%20Little%20Notes.wav) · [SoundCloud](https://soundcloud.com/futureboi420/angry-little-notes?in=futureboi420/sets/the-wizards-journey) · [Flat.io](https://flat.io/score/68f7c5333f827a161cc53c4e-angry-little-notes)
 
 - **Bored**  
+  [PDF](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/scores/Bored.pdf) · [MIDI](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/midi/Bored.mid) · [Audio](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/interpretations/suno/Bored.wav) · [SoundCloud](https://soundcloud.com/futureboi420/bored?in=futureboi420/sets/the-wizards-magic) · [Flat.io](https://flat.io/score/68fcd65ba8a50d437c2fc420-bored)
 
 - **Oops I dit it Again**  
-  [SoundCloud](https://soundcloud.com/futureboi420/oops-i-dit-it-again) · [Flat.io](https://flat.io/score/68fd49027e684144f075816f-oops-i-did-it-again)
+  [PDF](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/scores/Oops%20I%20dit%20it%20Again.pdf) · [MIDI](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/midi/Oops%20I%20dit%20it%20Again.mid) · [Audio](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/interpretations/suno/Oops%20I%20dit%20it%20Again.wav) · [SoundCloud](https://soundcloud.com/futureboi420/oops-i-dit-it-again) · [Flat.io](https://flat.io/score/68fd49027e684144f075816f-oops-i-did-it-again)
