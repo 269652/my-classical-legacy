@@ -1,0 +1,1 @@
+Disclaimer: Please be aware that I only compose the scores of these pieces. The performance is done by AI. However, I placed every note by myself and countless hours went into these compositions.

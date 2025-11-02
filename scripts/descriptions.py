@@ -16,6 +16,10 @@ descriptions_dir = os.path.join(repo_dir, "descriptions")
 base_url = "https://github.com/269652/my-classical-legacy/raw/refs/heads/main"
 os.makedirs(descriptions_dir, exist_ok=True)
 
+disclaimer_path = os.path.join(repo_dir, "DISCLAIMER.md")
+with open(disclaimer_path, encoding="utf-8") as f:
+    disclaimer = f.read().strip()
+
 
 def shorten_url_isgd(long_url):
     try:
@@ -116,8 +120,8 @@ for fname in os.listdir(scores_dir):
     pdf_link = existing_links.get("pdf")
     if regen or not (pdf_link and pdf_link.startswith("https://is.gd/")):
         src_link = links.get("pdf")
-        if src_link and src_link.startswith("https://github.com/"):
-            pdf_link = shorten_url_isgd(pdf_url)
+        if src_link and (src_link.startswith("https://github.com/") or src_link.startswith("https://media.githubusercontent.com/")):
+            pdf_link = shorten_url_isgd(src_link)
             time.sleep(0.5)
         elif src_link:
             pdf_link = src_link
@@ -130,8 +134,8 @@ for fname in os.listdir(scores_dir):
     audio_link = existing_links.get("audio")
     if regen or not (audio_link and audio_link.startswith("https://is.gd/")):
         src_link = links.get("audio")
-        if src_link and src_link.startswith("https://github.com/"):
-            audio_link = shorten_url_isgd(audio_url)
+        if src_link and (src_link.startswith("https://github.com/") or src_link.startswith("https://media.githubusercontent.com/")):
+            audio_link = shorten_url_isgd(src_link)
             time.sleep(0.5)
         elif src_link:
             audio_link = src_link
@@ -144,8 +148,8 @@ for fname in os.listdir(scores_dir):
     midi_link = existing_links.get("midi")
     if regen or not (midi_link and midi_link.startswith("https://is.gd/")):
         src_link = links.get("midi")
-        if src_link and src_link.startswith("https://github.com/"):
-            midi_link = shorten_url_isgd(midi_url)
+        if src_link and (src_link.startswith("https://github.com/") or src_link.startswith("https://media.githubusercontent.com/")):
+            midi_link = shorten_url_isgd(src_link)
             time.sleep(0.5)
         elif src_link:
             midi_link = src_link
@@ -172,6 +176,6 @@ for fname in os.listdir(scores_dir):
     order = ['PDF', 'Audio', 'MIDI', 'Flat.io', 'Spotify']
     output_line = " • ".join(f"{k}: {out_fields[k]}" for k in order if k in out_fields)
     with open(out_path, "w", encoding="utf-8") as out_file:
-        out_file.write(output_line)
+        out_file.write(output_line + "\n\n" + disclaimer)
     logging.info(f"Wrote description: {out_path}")
 
