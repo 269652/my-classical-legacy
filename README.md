@@ -63,5 +63,6 @@ Fun fact: my third attempt only took **3 hours**, compared to **7 hours** for my
 - **Oops I did it Again**  
   [PDF](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/scores/Oops%20I%20did%20it%20Again.pdf) · [MIDI](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/midi/Oops%20I%20did%20it%20Again.mid) · [Audio](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/interpretations/suno/Oops%20I%20did%20it%20Again.wav) · [SoundCloud](https://soundcloud.com/futureboi420/oops-i-did-it-again) · [Flat.io](https://flat.io/score/68fd49027e684144f075816f-oops-i-did-it-again)
 
-- **Unfinished**  
-  [PDF](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/scores/Unfinished.pdf) · [MIDI](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/midi/Unfinished.mid) · [Audio](https://github.com/269652/my-classical-legacy/raw/refs/heads/main/interpretations/suno/Unfinished.wav) · [SoundCloud](https://soundcloud.com/futureboi420/unfinished) · [Flat.io](https://flat.io/score/69039279d3eb35132c0c929a-unfinished)
+- **Polytoxicomania**  
+  [PDF](https://media.githubusercontent.com/media/269652/my-classical-legacy/refs/heads/main/scores/Polytoxicomania.pdf) · [MIDI](https://media.githubusercontent.com/media/269652/my-classical-legacy/refs/heads/main/midi/Polytoxicomania.mid) · [Audio](https://media.githubusercontent.com/media/269652/my-classical-legacy/refs/heads/main/interpretations/suno/Polytoxicomania.wav) · [SoundCloud](https://soundcloud.com/futureboi420/polytoxicomania) · [Flat.io](https://flat.io/score/6907909b8cad5cd07761f021-polytoxicomania)
+
